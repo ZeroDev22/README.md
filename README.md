@@ -7,7 +7,7 @@
 > * Hello There, Fuujin Is Here 🎐
 
 <p align="center">
-<a href="https://github.com/ZeroDev22"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZeroDev22"><img title="Author" src="https://img.shields.io/badge/Fuujin-Dev-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## Spotify Music :
 <p align="center">
