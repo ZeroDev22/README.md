@@ -1,6 +1,6 @@
 # README.md
 <p align="center">
-    <img src="https://telegra.ph/file/e86b361b05cc319c31359.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://cdn.bhdw.net/im/genshin-impact-kaedehara-kazuha-wallpaper-101115_w635.webp" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## It's Me? :
