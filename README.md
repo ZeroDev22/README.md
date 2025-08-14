@@ -4,14 +4,14 @@
 </p>
 
 ## It's Me? :
-> * Hello There, Fuujin Is Here 🎐
+> * Hello There, Fuujin Is Here 
 
 <p align="center">
 <a href="https://github.com/ZeroDev22"><img title="Author" src="https://img.shields.io/badge/Fuujin-Dev-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## Spotify Music :
 <p align="center">
-  <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr?si=VXOwT7OsRbindHW3Rg9emg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 > * 00:00 ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
@@ -20,16 +20,13 @@
 #### I'm currently learning:
 
 > * JavaScript
-> * Html 
-> * Assembly 
-> * Css
 > * Python
 
 ---
  B i o d a t a 🎨
 ```kt
 fun main() {
-    println("About Me 🐾")
+    println("About Me ")
     val name = "Fuujin"
     println("My name is $name")
     
